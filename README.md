@@ -1,5 +1,3 @@
 # first
 Getting started on GitHub
-
-Following the GitHub tutorial :-) 
-
+updated readme - pull request, commit and delete.
